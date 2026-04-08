@@ -40,7 +40,7 @@ An advanced, context-aware Chrome Extension that serves as an AI assistant nativ
 
 ## 📸 Screenshots & Demos
 
-*(Add your images to the `assets/` folder to see them displayed here)*
+
 
 <details>
   <summary><strong>1. Smart Code Expansion & Explanation</strong> <em>(Click to expand)</em></summary>
